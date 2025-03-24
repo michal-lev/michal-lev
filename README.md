@@ -1,5 +1,6 @@
-👋 Hi,
-I'm a full-stack developer currently studying for a bachelor's degree in Software Engineering.
+## Hi 👋, I'm Michal
+- Full-Stack developer
+- studying for a B.Sc in Software Engineering
 
 <!---
 michal-lev/michal-lev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
