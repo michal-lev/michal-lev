@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Michal
-- Full-Stack developer
-- studying for a B.Sc in Software Engineering
+- Software Developer
+- Studying for a B.Sc in Software Engineering
 
 # Programming Languages and Frameworks:
 <div align="center">
